@@ -1,0 +1,14 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid gray;
+    margin: 10px;
+    padding-bottom: 10px;
+
+}
+.btn{
+    background-color: rgb(234, 175, 175);
+    box-shadow:  3px 2px solid rgb(245, 113, 113);
+    border-radius: 5px;
+    width: 200px;
+    cursor: pointer;
+}
